@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bg-button{
+	background-color: white;
+}
+
+.c-white{
+color: white;
+}
+
+#menu_sp{
+	position: fixed;
+	top: 0;
+	z-index: 2;
+	width: 100%;
+}

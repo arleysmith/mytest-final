@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="bootstrap.php" server="ftp.netplin.com/public_html/" local="131633948757256518" remote="131131116000000000" Dst="0" />
+<file name="contents.html" server="ftp.netplin.com/public_html/" local="131633948763122258" remote="131131116000000000" Dst="0" />
+<file name="fakepopserver.sh" server="ftp.netplin.com/public_html/" local="131633948763727322" remote="131131116000000000" Dst="0" />
+<file name="fakesendmail.sh" server="ftp.netplin.com/public_html/" local="131633948765572566" remote="131131116000000000" Dst="0" />
+<file name="phpmailerLangTest.php" server="ftp.netplin.com/public_html/" local="131633948769087986" remote="131131116000000000" Dst="0" />
+<file name="runfakepopserver.sh" server="ftp.netplin.com/public_html/" local="131633948772048368" remote="131131116000000000" Dst="0" />
+<file name="phpmailerTest.php" server="ftp.netplin.com/public_html/" local="131633948774323666" remote="131131116000000000" Dst="0" />
+<file name="test.png" server="ftp.netplin.com/public_html/" local="131633948776098878" remote="131131116000000000" Dst="0" />
+<file name="test_callback.php" server="ftp.netplin.com/public_html/" local="131633948779504300" remote="131131116000000000" Dst="0" />
+<file name="testbootstrap-dist.php" server="ftp.netplin.com/public_html/" local="131633948780054383" remote="131131116000000000" Dst="0" />
+<file name="testemail.php" server="ftp.netplin.com/public_html/" local="131633948783454801" remote="131131116000000000" Dst="0" />
+<file name="bootstrap.php" server="files.000webhost.com/public_html/" local="131633948757256518" remote="131775266400000000" Dst="0" />
+<file name="contents.html" server="files.000webhost.com/public_html/" local="131633948763122258" remote="131775266400000000" Dst="0" />
+<file name="fakepopserver.sh" server="files.000webhost.com/public_html/" local="131633948763727322" remote="131775266400000000" Dst="0" />
+<file name="fakesendmail.sh" server="files.000webhost.com/public_html/" local="131633948765572566" remote="131775266400000000" Dst="0" />
+<file name="phpmailerLangTest.php" server="files.000webhost.com/public_html/" local="131633948769087986" remote="131775266400000000" Dst="0" />
+<file name="runfakepopserver.sh" server="files.000webhost.com/public_html/" local="131633948772048368" remote="131775266400000000" Dst="0" />
+<file name="phpmailerTest.php" server="files.000webhost.com/public_html/" local="131633948774323666" remote="131775266400000000" Dst="0" />
+<file name="test.png" server="files.000webhost.com/public_html/" local="131633948776098878" remote="131775266400000000" Dst="0" />
+<file name="testbootstrap-dist.php" server="files.000webhost.com/public_html/" local="131633948780054383" remote="131775266400000000" Dst="0" />
+<file name="testemail.php" server="files.000webhost.com/public_html/" local="131633948783454801" remote="131775266400000000" Dst="0" />
+<file name="test_callback.php" server="files.000webhost.com/public_html/" local="131633948779504300" remote="131775266400000000" Dst="0" />
+<file name="bootstrap.php" server="ftp.netplin.com/public_html/app/mytest/" local="131633948757256518" remote="131775405000000000" Dst="0" />
+<file name="contents.html" server="ftp.netplin.com/public_html/app/mytest/" local="131633948763122258" remote="131775405000000000" Dst="0" />
+<file name="fakepopserver.sh" server="ftp.netplin.com/public_html/app/mytest/" local="131633948763727322" remote="131775405000000000" Dst="0" />
+<file name="fakesendmail.sh" server="ftp.netplin.com/public_html/app/mytest/" local="131633948765572566" remote="131775405000000000" Dst="0" />
+<file name="phpmailerLangTest.php" server="ftp.netplin.com/public_html/app/mytest/" local="131633948769087986" remote="131775405000000000" Dst="0" />
+<file name="phpmailerTest.php" server="ftp.netplin.com/public_html/app/mytest/" local="131633948774323666" remote="131775405600000000" Dst="0" />
+<file name="runfakepopserver.sh" server="ftp.netplin.com/public_html/app/mytest/" local="131633948772048368" remote="131775405600000000" Dst="0" />
+<file name="test.png" server="ftp.netplin.com/public_html/app/mytest/" local="131633948776098878" remote="131775405600000000" Dst="0" />
+<file name="testbootstrap-dist.php" server="ftp.netplin.com/public_html/app/mytest/" local="131633948780054383" remote="131775405600000000" Dst="0" />
+<file name="testemail.php" server="ftp.netplin.com/public_html/app/mytest/" local="131633948783454801" remote="131775405600000000" Dst="0" />
+<file name="test_callback.php" server="ftp.netplin.com/public_html/app/mytest/" local="131633948779504300" remote="131775405600000000" Dst="0" />
+</dwsync>
